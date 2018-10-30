@@ -1,19 +1,16 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import Geolocation from './components/Geolocation';
 import './App.css';
-import ProfileG from './components/ProfileG';
 import SignIn from './components/SignIn';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-          
-        
-        {/* <ProfileG/> */}
+        {/* <header className="App-header">
+        </header> */}
         <SignIn/>
-
-
+        <Geolocation/>
       </div>
     );
   }
