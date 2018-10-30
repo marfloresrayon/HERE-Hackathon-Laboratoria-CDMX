@@ -1,6 +1,6 @@
 # Documentación del proceso de trabajo. CaminApp 
 
-Disponible en: https://drive.google.com/drive/u/2/folders/1rG9YbHPwH6ikgO0CYF2HbgD_X06-ZJoF
+Disponible en: https://sites.google.com/view/caminapp/p%C3%A1gina-principal
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
