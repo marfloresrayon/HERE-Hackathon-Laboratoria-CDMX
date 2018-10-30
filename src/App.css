@@ -30,3 +30,13 @@
     transform: rotate(360deg);
   }
 }
+
+.school{
+  margin-top: 50px;
+  height: 100px;
+}
+
+.from{
+  text-align: center;
+  
+}
